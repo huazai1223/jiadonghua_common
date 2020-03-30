@@ -3,7 +3,7 @@
   <groupId>com.jiadonghua</groupId>
   <artifactId>jiadonghua_common</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <dependencies>
+  <dependencies> 
   	<dependency>
   		<groupId>com.jiadonghua</groupId>
   		<artifactId>jiadonghua-common</artifactId>

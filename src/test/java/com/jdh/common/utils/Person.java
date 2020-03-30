@@ -35,7 +35,7 @@ public Person(String name, Integer age, String about, Date created) {
 	super();
 	this.name = name;
 	this.age = age;
-	this.about = about;
+	this.about = about; 
 	this.created = created;
 }
 public Person() {
